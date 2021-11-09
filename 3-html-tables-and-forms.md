@@ -52,8 +52,8 @@ The URL that processes the information submitted by the button. Overrides the ac
 #### checkbox
 `<input>` elements of type `checkbox` are rendered by default as boxes that are checked (ticked) when activated.
 
-```Note: Radio buttons are similar to checkboxes, but with an important distinction — radio buttons are grouped into a set in which only one radio button can be selected at a time, whereas checkboxes allow you to turn single values on and off. 
-```
+`Note: Radio buttons are similar to checkboxes, but with an important distinction — radio buttons are grouped into a set in which only one radio button can be selected at a time, whereas checkboxes allow you to turn single values on and off. 
+`
 
 #### Required
 The Boolean required attribute, if present, indicates that the user must specify a value for the input before the owning form can be submitted.
