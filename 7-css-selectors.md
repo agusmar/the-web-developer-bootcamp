@@ -50,9 +50,15 @@ p::first-line {
 ```
 
 ## CSS Cascade
+The **order** your styles are declared in and linked to **matters**
 
 ## Specificity
+* How the browser decides which rules to apply when multiple rules could apply to the same element.
+* It is a measure of how specific a given selector is. 
+* The more specific selector "wins"
+* It only applies when there's a conflict
+https://specificity.keegan.st/
 
 ## Inline styles & important
+Override the styles and this are the highest in specificity
 
-## Inheritance
