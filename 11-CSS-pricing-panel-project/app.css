@@ -1,0 +1,89 @@
+
+body {
+
+}
+ol, ul {
+
+}
+blockquote, q {
+
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+
+}
+table {
+
+}
+
+html {
+
+}
+
+body {
+
+}
+
+.panel {
+
+}
+
+.pricing-plan {
+
+}
+.pricing-plan:last-child {
+
+}
+
+.pricing-img {
+
+}
+
+.pricing-header {
+
+}
+
+.pricing-features {
+ 
+}
+
+.pricing-features-item {
+
+}
+
+.pricing-features-item:last-child{
+
+}
+
+.pricing-price {
+
+}
+
+.pricing-button {
+
+}
+
+.pricing-button:hover, .pricing-button:focus {
+
+}
+
+.pricing-button.is-featured {
+
+}
+
+.pricing-button.is-featured:hover, .pricing-button.is-featured:focus{
+
+}
+
+
+@media (min-width: 900px){
+  .panel {
+
+  }
+  .pricing-plan {
+
+  }
+  .pricing-plan:last-child {
+
+  }
+}
