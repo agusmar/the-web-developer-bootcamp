@@ -54,19 +54,13 @@ This approach is about setting a simple and easy guideline, which is good for ge
 
 Specify the type of commit:
 
-**feat:** The new feature you're adding to a particular application
-
-**fix:** A bug fix
-
-**style:** Feature and updates related to styling
-
-**refactor:** Refactoring a specific section of the codebase
-
-**test:** Everything related to testing
-
-**docs:** Everything related to documentation
-
-**chore:** Regular code maintenance.
+1. **feat:** The new feature you're adding to a particular application
+2. **fix:** A bug fix
+3. **style:** Feature and updates related to styling
+4. **refactor:** Refactoring a specific section of the codebase
+5. **test:** Everything related to testing
+6. **docs:** Everything related to documentation
+7. **chore:** Regular code maintenance.
 
 References
 
