@@ -88,9 +88,10 @@ In JavaScript, a **truthy** value is a value that is considered true when encoun
 **All values are truthy unless they are defined as falsy** (i.e., except for false, 0, -0, 0n, "", null, undefined, and NaN).
 
 ## Logical AND
+Both sides must be true, for the entire thing to be true
 
 ## Logical OR
+If one side is true, the entire thing is true
 
 ## Logical NOT
-
-The Switch Statement Is...A Lot
+!expression returns true if expression is false
