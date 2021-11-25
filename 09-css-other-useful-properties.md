@@ -47,10 +47,10 @@ The element is **positioned according to the normal flow of the document**, and 
 
 Transitions enable you to define the transition between two states of an element. Different states may be defined using pseudo-classes like :hover or :active or dynamically set using JavaScript.
 
-* transition-delay
-* transition-duration
-* transition-property
-* transition-timing-function  
+- transition-delay
+- transition-duration
+- transition-property
+- transition-timing-function  
     * lets you establish an acceleration curve so that the speed of the transition can vary over its duration.
 
 ## Transforms

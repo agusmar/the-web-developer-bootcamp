@@ -14,3 +14,4 @@ planets.push("Saturn");
 planets.unshift("Mercury");
 
 // Exercise 4
+airplaneSeats[3][1] = "Hugo";
