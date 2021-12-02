@@ -6,7 +6,7 @@ const square = function (num) {
 square(4);
 
 // Exercise 2
-const square = {
+const square2 = {
     area(side) {
         return side * side;
     },
@@ -14,6 +14,7 @@ const square = {
         return side * 4;
     },
 };
+
 // Exercise 3
 const hen = {
     name: "Helen",
